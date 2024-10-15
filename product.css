@@ -117,6 +117,11 @@ th {
     font-size: 16px;
 }
 
+.h1_sp{
+    margin-right: 20px;
+    font-size: 40px;
+}
+
 .section4{
     align-items: center;
 }
@@ -194,6 +199,12 @@ footer h1{
     th,td{
         font-size: 15px;
     }
+    .h1_sp{
+        text-align: center;
+    }
+    .sec4 h3{
+        text-align: center;
+    }
     footer{
         margin-top: 50px;
         height: 100px;
@@ -237,6 +248,10 @@ footer h1{
     }
     th,td{
         font-size: 20px;
+    }
+    .h1_sp{
+        text-align: center;
+        font-size: 40px;
     }
 }
 @media (min-width: 100px) and (max-width: 400px) {
