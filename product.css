@@ -169,6 +169,11 @@ button:hover{
 .config{
     margin-bottom: 30px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-right: 30px;
 }
 
 footer{
